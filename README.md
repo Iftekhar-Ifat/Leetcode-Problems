@@ -7,7 +7,9 @@
 |  [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                             | [Java](./Arrays/Richest-Customer-Wealth.java)                                                                     | _O(n*m)_     | _O(n*m)_                      | Easy             | Array, Matrix                   |
 |  [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                         | [Java](./Arrays/Shuffle-the-Array.java)                                                                           | _O(n/2)_     | _O(n)_                        | Easy             | Array, Implementation           |
 |  [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)           | [Java](./Arrays/Kids-With-the-Greatest-Number-of-Candies.java)                                                    | _O(n)_       | _O(n)_                        | Easy             | Array, Implementation           |
-
+|  [Two Sum](https://leetcode.com/problems/two-sum/)                                                                             | [Java](./Arrays/Two-Sum.java)                                                                                     | _O(n)_       | _O(n)_                        | Easy             | Array, HashTable, HashMap       |
+|  [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)                 | [Java](./Arrays/Find-N-Unique-Integers-Sum-up-to-Zero.java)                                                       | _O(n/2)_     | _O(n)_                        | Easy             | Array, Math                     |
+|  [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)                                         | [Java](./Arrays/Lucky-Numbers-in-a-Matrix.java)                                                                   | _O(n*m)_     | _O(1)_                        | Easy             | Array, Matrix                   |
 
 
 
