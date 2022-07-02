@@ -6,8 +6,6 @@ class Solution {
 
         int[][] ans = new int[n][m];
 
-        int chk = matrix.length;
-
         for(int i=0; i<n; i++){
 
             for(int j=0; j<m; j++){
